@@ -1,3 +1,5 @@
+# Restaurant waitlist system
+
 A restaurant waiting system written in C that keeps track of customer waiting lists and orders. 
 
 Various commands that can be used:
